@@ -1,0 +1,1 @@
+# cmake-test_resource_data.h.in
